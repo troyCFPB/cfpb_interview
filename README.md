@@ -42,7 +42,6 @@ For help with command prompt commands, [click here.](http://www.cs.columbia.edu/
 
 For help with Github and cloning ~humans~ code, [click here.](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
-Note: In the repository, there is a folder with the 3 csv files we will be working.
 
 ## STEP 4
 
